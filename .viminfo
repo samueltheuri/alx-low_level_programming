@@ -29,18 +29,45 @@
 	
 
 # File marks:
-'0  115  51  ~/AirBnB_clone_v2/tests/test_models/test_engine/test_file_storage.py
-'1  182  17  ~/AirBnB_clone_v2/tests/test_models/test_engine/test_db_storage.py
-'2  1  0  ~/AirBnB_clone_v2/tests/test_models/test_engine/__init__.py
-'3  48  8  ~/AirBnB_clone_v2/tests/test_models/test_user.py
-'4  23  8  ~/AirBnB_clone_v2/tests/test_models/test_state.py
-'5  39  8  ~/AirBnB_clone_v2/tests/test_models/test_review.py
-'6  100  52  ~/AirBnB_clone_v2/tests/test_models/test_place.py
-'7  31  8  ~/AirBnB_clone_v2/tests/test_models/test_city.py
-'8  186  52  ~/AirBnB_clone_v2/tests/test_models/test_base_model.py
-'9  23  8  ~/AirBnB_clone_v2/tests/test_models/test_amenity.py
+'0  1  3  ~/alx-low_level_programming/0x1E-search_algorithms/README.md
+'1  52  5  ~/alx-low_level_programming/0x1E-search_algorithms/search_algos.h
+'2  1  4  ~/alx-low_level_programming/0x1E-search_algorithms/6-O
+'3  1  3  ~/alx-low_level_programming/0x1E-search_algorithms/5-O
+'4  1  8  ~/alx-low_level_programming/0x1E-search_algorithms/4-O
+'5  1  3  ~/alx-low_level_programming/0x1E-search_algorithms/3-O
+'6  1  3  ~/alx-low_level_programming/0x1E-search_algorithms/2-O
+'7  1  9  ~/alx-low_level_programming/0x1E-search_algorithms/108-O
+'8  1  3  ~/alx-low_level_programming/0x1E-search_algorithms/107-O
+'9  45  0  ~/alx-low_level_programming/0x1E-search_algorithms/106-linear_skip.c
 
 # Jumplist (newest first):
+-'  1  3  ~/alx-low_level_programming/0x1E-search_algorithms/README.md
+-'  52  5  ~/alx-low_level_programming/0x1E-search_algorithms/search_algos.h
+-'  1  0  ~/alx-low_level_programming/0x1E-search_algorithms/search_algos.h
+-'  1  4  ~/alx-low_level_programming/0x1E-search_algorithms/6-O
+-'  1  3  ~/alx-low_level_programming/0x1E-search_algorithms/5-O
+-'  1  8  ~/alx-low_level_programming/0x1E-search_algorithms/4-O
+-'  1  3  ~/alx-low_level_programming/0x1E-search_algorithms/3-O
+-'  1  3  ~/alx-low_level_programming/0x1E-search_algorithms/2-O
+-'  1  9  ~/alx-low_level_programming/0x1E-search_algorithms/108-O
+-'  1  3  ~/alx-low_level_programming/0x1E-search_algorithms/107-O
+-'  45  0  ~/alx-low_level_programming/0x1E-search_algorithms/106-linear_skip.c
+-'  1  0  ~/alx-low_level_programming/0x1E-search_algorithms/106-linear_skip.c
+-'  51  0  ~/alx-low_level_programming/0x1E-search_algorithms/105-jump_list.c
+-'  1  0  ~/alx-low_level_programming/0x1E-search_algorithms/105-jump_list.c
+-'  64  0  ~/alx-low_level_programming/0x1E-search_algorithms/104-advanced_binary.c
+-'  1  0  ~/alx-low_level_programming/0x1E-search_algorithms/104-advanced_binary.c
+-'  70  0  ~/alx-low_level_programming/0x1E-search_algorithms/103-exponential.c
+-'  1  0  ~/alx-low_level_programming/0x1E-search_algorithms/103-exponential.c
+-'  52  0  ~/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+-'  1  0  ~/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+-'  1  9  ~/alx-low_level_programming/0x1E-search_algorithms/101-O
+-'  44  0  ~/alx-low_level_programming/0x1E-search_algorithms/100-jump.c
+-'  1  0  ~/alx-low_level_programming/0x1E-search_algorithms/100-jump.c
+-'  61  0  ~/alx-low_level_programming/0x1E-search_algorithms/1-binary.c
+-'  1  0  ~/alx-low_level_programming/0x1E-search_algorithms/1-binary.c
+-'  26  0  ~/alx-low_level_programming/0x1E-search_algorithms/0-linear.c
+-'  1  0  ~/alx-low_level_programming/0x1E-search_algorithms/0-linear.c
 -'  115  51  ~/AirBnB_clone_v2/tests/test_models/test_engine/test_file_storage.py
 -'  1  0  ~/AirBnB_clone_v2/tests/test_models/test_engine/test_file_storage.py
 -'  182  17  ~/AirBnB_clone_v2/tests/test_models/test_engine/test_db_storage.py
@@ -112,36 +139,116 @@
 -'  29  16  ~/AirBnB_clone_v2/1-pack_web_static.py
 -'  1  0  ~/AirBnB_clone_v2/1-pack_web_static.py
 -'  62  1  ~/AirBnB_clone_v2/0-setup_web_static.sh
--'  1  0  ~/AirBnB_clone_v2/0-setup_web_static.sh
--'  136  8  ~/AirBnB_clone_v2/.gitignore
--'  1  0  ~/AirBnB_clone_v2/.gitignore
--'  8  34  ~/AirBnB_clone_v2/.gh_styles_web_ignore
--'  1  0  ~/AirBnB_clone_v2/.gh_styles_web_ignore
--'  123  1  ~/AirBnB_clone_v2/0-setup_web_static.sh
--'  271  8  ~/AirBnB_clone_v2/.gitignore
--'  15  34  ~/AirBnB_clone_v2/.gh_styles_web_ignore
--'  1  0  ~/alx-system_engineering-devops/README.md
--'  1  0  ~/alx-system_engineering-devops/0x0F-load_balancer/1-install_load_balancer
--'  1  0  ~/0x0E-web_stack_debugging_1
--'  1  0  ~/alx-system_engineering-devops/1-install_load_balancer
--'  52  78  ~/alx-system_engineering-devops/0x10-https_ssl/README.md
--'  1  0  ~/alx-system_engineering-devops/0x10-https_ssl/README.md
--'  47  3  ~/alx-system_engineering-devops/0x10-https_ssl/1-haproxy_ssl_termination
--'  1  0  ~/alx-system_engineering-devops/0x10-https_ssl/1-haproxy_ssl_termination
--'  29  1  ~/alx-system_engineering-devops/0x10-https_ssl/0-world_wide_web
--'  1  0  ~/alx-system_engineering-devops/0x10-https_ssl/0-world_wide_web
--'  95  6  ~/alx-system_engineering-devops/0x0E-web_stack_debugging_1/README.md
--'  1  0  ~/alx-system_engineering-devops/0x0E-web_stack_debugging_1/README.md
--'  5  79  ~/alx-system_engineering-devops/0x0E-web_stack_debugging_1/1-debugging_made_short
--'  1  0  ~/alx-system_engineering-devops/0x0E-web_stack_debugging_1/1-debugging_made_short
--'  10  21  ~/alx-system_engineering-devops/0x0E-web_stack_debugging_1/0-nginx_likes_port_80
--'  1  0  ~/alx-system_engineering-devops/0x0E-web_stack_debugging_1/0-nginx_likes_port_80
--'  19  32  ~/alx-system_engineering-devops/1-install_load_balancer
--'  12  0  ~/alx-system_engineering-devops/0x0F-load_balancer/0-custom_http_response_header
--'  1  0  ~/alx-system_engineering-devops/0x0F-load_balancer/0-custom_http_response_header
--'  21  60  ~/alx-system_engineering-devops/0x0F-load_balancer/README.md
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-low_level_programming/0x1E-search_algorithms/README.md
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/alx-low_level_programming/0x1E-search_algorithms/search_algos.h
+	"	52	5
+	^	52	6
+	.	52	0
+	+	52	0
+
+> ~/alx-low_level_programming/0x1E-search_algorithms/6-O
+	"	1	4
+	^	1	5
+	.	1	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x1E-search_algorithms/5-O
+	"	1	3
+	^	1	4
+	.	1	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x1E-search_algorithms/4-O
+	"	1	8
+	^	1	9
+	.	1	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x1E-search_algorithms/3-O
+	"	1	3
+	^	1	4
+	.	1	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x1E-search_algorithms/2-O
+	"	1	3
+	^	1	4
+	.	1	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x1E-search_algorithms/108-O
+	"	1	9
+	^	1	10
+	.	1	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x1E-search_algorithms/107-O
+	"	1	3
+	^	1	4
+	.	1	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x1E-search_algorithms/106-linear_skip.c
+	"	45	0
+	^	45	1
+	.	45	0
+	+	45	0
+
+> ~/alx-low_level_programming/0x1E-search_algorithms/105-jump_list.c
+	"	51	0
+	^	51	1
+	.	51	0
+	+	51	0
+
+> ~/alx-low_level_programming/0x1E-search_algorithms/104-advanced_binary.c
+	"	64	0
+	^	64	1
+	.	64	0
+	+	64	0
+
+> ~/alx-low_level_programming/0x1E-search_algorithms/103-exponential.c
+	"	70	0
+	^	70	1
+	.	70	0
+	+	70	0
+
+> ~/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+	"	52	0
+	^	52	1
+	.	52	0
+	+	52	0
+
+> ~/alx-low_level_programming/0x1E-search_algorithms/101-O
+	"	1	9
+	^	1	10
+	.	1	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x1E-search_algorithms/100-jump.c
+	"	44	0
+	^	44	1
+	.	44	0
+	+	44	0
+
+> ~/alx-low_level_programming/0x1E-search_algorithms/1-binary.c
+	"	61	0
+	^	61	1
+	.	61	0
+	+	61	0
+
+> ~/alx-low_level_programming/0x1E-search_algorithms/0-linear.c
+	"	26	0
+	^	26	1
+	.	26	0
+	+	26	0
 
 > ~/AirBnB_clone_v2/tests/test_models/test_engine/test_file_storage.py
 	"	115	51
@@ -675,115 +782,3 @@
 	.	6	0
 	+	1	99
 	+	6	0
-
-> ~/alx-system_engineering-devops/0x0A-configuration_management/killmenow
-	"	5	3
-	^	5	4
-	.	5	0
-	+	5	0
-
-> ~/alx-system_engineering-devops/0x0C-web_server/7-puppet_install_nginx_web_server.pp
-	"	5	0
-	^	5	1
-	.	5	0
-	+	5	0
-
-> ~/alx-system_engineering-devops/0x0C-web_server/4-not_found_page_404
-	"	38	2
-	^	38	3
-	.	38	0
-	+	38	0
-
-> ~/alx-system_engineering-devops/0x0C-web_server/3-redirection
-	"	31	2
-	^	31	3
-	.	31	0
-	+	31	0
-
-> ~/alx-system_engineering-devops/0x0C-web_server/2-setup_a_domain_name
-	"	1	11
-	^	1	12
-	.	1	11
-	+	1	11
-
-> ~/alx-system_engineering-devops/0x0C-web_server/1-install_nginx_web_server
-	"	37	5
-	^	37	6
-	.	37	5
-	+	4	110
-	+	37	5
-
-> ~/alx-system_engineering-devops/0x0C-web_server/0-transfer_file
-	"	14	2
-	^	14	3
-	.	14	0
-	+	1	342
-	+	14	0
-
-> ~/alx-system_engineering-devops/0x0C-web_server/README.md
-	"	49	145
-	^	49	146
-	.	49	100
-	+	49	100
-
-> ~/alx-system_engineering-devops/0x0D-web_stack_debugging_0/README.md
-	"	35	217
-	^	35	218
-	.	35	171
-	+	35	171
-
-> ~/alx-system_engineering-devops/0x0D-web_stack_debugging_0/0-give_me_a_page
-	"	5	20
-	^	5	21
-	.	5	0
-	+	5	0
-
-> /etc/sudoers.tmp
-	"	12	14
-	^	12	15
-	.	12	14
-	+	33	0
-	+	13	0
-	+	12	14
-
-> ~/alx-system_engineering-devops/0x0B-ssh/100-puppet_ssh_config.pp
-	"	1	0
-	^	1	0
-	.	13	0
-	+	1	237
-	+	1	22
-	+	13	0
-
-> ~/.ssh/known_hosts
-	"	1	0
-
-> ~/.ssh/authorized_keys
-	"	1	397
-	^	1	398
-	.	2	0
-	+	1	398
-	+	2	0
-
-> ~/.ssh/school.pub
-	"	1	0
-
-> ~/.ssh/config
-	"	1	0
-	^	1	6
-	.	2	0
-	+	4	27
-	+	1	5
-	+	2	0
-
-> ~/alx-system_engineering-devops/0x0B-ssh/2-ssh_config
-	"	7	27
-	^	7	28
-	.	7	0
-	+	7	0
-
-> ~/alx-system_engineering-devops/0x0B-ssh/1-create_ssh_key_pair
-	"	2	12
-	^	2	13
-	.	2	12
-	+	3	43
-	+	2	12
